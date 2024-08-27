@@ -16,7 +16,7 @@ To get a copy of the project up and running on your local machine, follow these 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/andrewjmead/react-course-2-indecision-app.git
+        https://github.com/rahman113/react-indecision-app.git
 
 2. Navigate to the Project Directory
    cd react-course-2-indecision-app
